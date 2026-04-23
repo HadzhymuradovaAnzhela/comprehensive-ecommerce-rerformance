@@ -4,7 +4,7 @@
 This project focuses on identifying the primary drivers of financial performance for a global e-commerce platform. The analysis dives into revenue distribution across geographic regions, product categories, and acquisition channels. By utilizing the google.cloud.bigquery library for seamless data ingestion from BigQuery (SQL), using Python for performing in-depth statistical analysis, and developing an interactive dashboard in Tableau.  
 
 **SQL Data Integration:**  
-Merging tables (Full Outer & Left Joins)  
+Merging tables (Full Outer and Left Joins)  
 
 **Libraries Python:**  
 * Cloud and Auth: google-cloud-bigquery, google.colab.auth
