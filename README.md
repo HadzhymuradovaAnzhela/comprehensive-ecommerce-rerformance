@@ -55,14 +55,16 @@ Increase Average Order Value by leveraging identified category dependencies. Spe
 🌍 **Global Scaling Strategy**   
 As conversion efficiency and organic traffic shares are statistically identical across the Americas and Europe, marketing resources should be allocated based on total traffic potential rather than regional funnel optimization.  
 
-## Interactive Dashboards (Tableau)
+## [Interactive Dashboards (Tableau)](https://public.tableau.com/app/profile/angela.krupa/viz/GlobalE-commercePerformance/KeyInsights)
 ### Key Insights
 
-<img width="1397" height="1005" alt="image" src="https://github.com/user-attachments/assets/3c909f7a-909f-420a-a735-5e860ed4ce58" />  
+ <img width="1399" height="999" alt="Key Insights" src="https://github.com/user-attachments/assets/71216345-ea27-4484-8f17-914b57ef0dcf" />
+
 
 ### Drivers   
 
-<img width="1404" height="1002" alt="image" src="https://github.com/user-attachments/assets/74fa57c6-5d3f-4ef0-b67e-c94fe71ef5d2" />  
+<img width="1399" height="999" alt="Drivers" src="https://github.com/user-attachments/assets/197e52bc-688d-473f-8edf-cd4ff8343d5d" />
+
 
 
 
