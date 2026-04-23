@@ -1,7 +1,7 @@
 # Global E-commerce Revenue Analysis: Statistical Dependencies and Interactive Visualization
 > Created with Google Colab, BigQuery and Tableau.  
 
-This project focuses on identifying the primary drivers of financial performance for a global e-commerce platform. The analysis dives into revenue distribution across geographic regions, product categories, and acquisition channels. By utilizing the google.cloud.bigquery library for seamless data ingestion from BigQuery (SQL), using Python for performing in-depth statistical analysis, and developing an interactive dashboard in Tableau.  
+This [project](comprehensive_ecommerce_performance_analysis.ipynb) focuses on identifying the primary drivers of financial performance for a global e-commerce platform. The analysis dives into revenue distribution across geographic regions, product categories, and acquisition channels. By utilizing the google.cloud.bigquery library for seamless data ingestion from BigQuery (SQL), using Python for performing in-depth statistical analysis, and developing an interactive dashboard in Tableau.  
 
 **SQL Data Integration:**  
 Merging tables (Full Outer and Left Joins)  
@@ -26,8 +26,8 @@ Merging tables (Full Outer and Left Joins)
 6. Cross-Dimensional Analysis - utilized pivot tables to examine the relationship between session volume and revenue across devices and channels, and analyzed average order value for subscribers vs. non-subscribers within top-performing categories.
 7. Correlation Analysis - conducted a series of independent statistical studies to identify revenue drivers, investigating dependencies between Session Volume and Revenue, Regional Interdependence, Inter-Channel and Cross-Category relationships, as well as Registered vs. Guest purchase patterns. Each correlation was quantified using Pearson, Spearman, and Kendall coefficients and validated through p-value calculations to confirm statistical significance and reliability.
 8. Comparative Analysis of Segmented Performance Metrics - performed rigorous hypothesis testing to validate differences across segments. This included using the Mann-Whitney U test to assess revenue significance by subscription status after analyzing variable distributions. For multi-group comparisons, such as traffic channel volume, ANOVA and Kruskal-Wallis tests were applied. Additionally, a Z-test for proportions was utilized to compare regional organic traffic shares and conversion rates.
-9. Key Insights and Recommendations
-10. Interactive Dashboard -  developed a 2-page Tableau dashboard to visualize analytical findings. The first page focuses on high-level business metrics and sales dynamics, while the second page is dedicated to Revenue Drivers
+9. Key Insights and Recommendations.
+10. Interactive Dashboard -  developed a 2-page Tableau dashboard to visualize analytical findings. The first page focuses on high-level business metrics and sales dynamics, while the second page is dedicated to Revenue Drivers.
 
 ## Key Business Insights:
 🌍 **Regional Dominance**  
@@ -58,7 +58,9 @@ As conversion efficiency and organic traffic shares are statistically identical 
 ## [Interactive Dashboards (Tableau)](https://public.tableau.com/app/profile/angela.krupa/viz/GlobalE-commercePerformance/KeyInsights)
 ### Key Insights
 
-<img width="1399" height="999" alt="Key Insights (1)" src="https://github.com/user-attachments/assets/603afc47-1953-47fc-bdb7-577812596901" />
+<img width="1401" height="1000" alt="image" src="https://github.com/user-attachments/assets/072b0f35-ebfe-4783-8c70-dfc8575fdbf2" />
+
+
 
 ### Drivers   
 
